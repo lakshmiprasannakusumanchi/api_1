@@ -1,0 +1,33 @@
+tbody
+{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    background-color: aquamarine;
+    justify-content: space-around;
+    margin:5px;
+    padding: 10px;
+  
+}
+img{
+    height: 200px;
+    width:400px;
+}
+div
+{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin:5px;
+}
+p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input
+{
+    padding-right: 50px;
+}
+u{
+    font-family: 'Times New Roman', Times, serif;
+}
